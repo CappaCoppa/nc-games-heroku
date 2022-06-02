@@ -36,5 +36,6 @@
     "setupFilesAfterEnv": [
       "jest-extended/all"
     ]
-  }
+  },
+  "devDependencies": {}
 }
